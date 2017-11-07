@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="size_list_item">88dp</dimen>
+    <dimen name="height_attraction_image">160dp</dimen>
+    <dimen name="margin_opening_hours">16dp</dimen>
+    <dimen name="padding_list_item_text_container">16dp</dimen>
+    <dimen name="padding_text_container">16dp</dimen>
+
+    <dimen name="text_size_attraction_name">18sp</dimen>
+    <dimen name="text_size_attraction_address">14sp</dimen>
+    <dimen name="text_size_attraction_opening_hours">14sp</dimen>
+</resources>
